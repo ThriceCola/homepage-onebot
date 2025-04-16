@@ -41,6 +41,7 @@
 - 【Python】[nonebot/nonebot2](https://github.com/nonebot/nonebot2)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[AliceBotProject/alicebot](https://github.com/AliceBotProject/alicebot)
+- 【Python】[PigBotFramework/next](https://github.com/PigBotFramework/next)
 - 【C#】[theGravityLab/Onebot.Net](https://github.com/theGravityLab/Onebot.Net)
 - 【Ruby】[fantasyzhjk/onebot-ruby](https://github.com/fantasyzhjk/onebot-ruby)
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
@@ -69,6 +70,7 @@
 - 【Discord】[ITCraftDevelopmentTeam/OneDisc](https://github.com/ITCraftDevelopmentTeam/OneDisc)
 - 【微信公众平台】[Hoshinonyaruko/Gensokyo-wxmp](https://github.com/Hoshinonyaruko/Gensokyo-wxmp)（基于微信公众号+小程序 API）
 - 【Telegram】[Hoshinonyaruko/Gensokyo-telegram](https://github.com/Hoshinonyaruko/Gensokyo-telegram)
+- 【Telegram】[Travellerrr/Telegram-Onebot-Adapter](https://github.com/Travellerrr/Telegram-Onebot-Adapter)
 
 ### OneBot SDK
 
@@ -80,13 +82,20 @@
 - 【Python】[Lxns-Network/nakuru-project](https://github.com/Lxns-Network/nakuru-project)
 - 【Python】[OlivOS-Team/OlivOS](https://github.com/OlivOS-Team/OlivOS)
 - 【Python】[AliceBotProject/alicebot](https://github.com/AliceBotProject/alicebot)
-- 【Python】[PigBotFramework/v4](https://github.com/PigBotFramework/v4)
+- 【Python】[PigBotFramework/next](https://github.com/PigBotFramework/next)
+- 【Python】[Meloland/melobot](https://github.com/Meloland/melobot)
+- 【Python】[MuRainBot/MuRainBot2](https://github.com/MuRainBot/MuRainBot2)
+- 【Python】[avilliai/eridanus-dep](https://github.com/avilliai/eridanus-dep)
 - 【Node】[koishijs/koishi](https://github.com/koishijs/koishi)
 - 【Node】[Circkoooooo/cqhttp-ts](https://github.com/Circkoooooo/cqhttp-ts)
+- 【Node】[kotorijs/kotori](https://github.com/kotorijs/kotori)
+- 【Node】[SimonShiki/philia](https://github.com/SimonShiki/philia)
+- 【Node】[huankong-team/node-napcat-ts](https://github.com/huankong-team/node-napcat-ts)
 - 【Deno】[satouriko/deno-cqhttp](https://github.com/satouriko/deno-cqhttp)
 - 【PHP】[zhamao-robot/zhamao-framework](https://github.com/zhamao-robot/zhamao-framework)
 - 【PHP】[LovelyA72/YeziiBot-v2](https://github.com/LovelyA72/YeziiBot-v2)
 - 【PHP】[ParaParty/MPBot](https://github.com/ParaParty/MPBot)
+- 【Go】[arttnba3/Shigure-Bot](https://github.com/arttnba3/Shigure-Bot)
 - 【Go】[wdvxdr1123/ZeroBot](https://github.com/wdvxdr1123/ZeroBot)
 - 【Go】[AkiinuBot/go-Pichubot](https://github.com/AkiinuBot/go-Pichubot)
 - 【Go】[BoyChai/CoralBot](https://github.com/BoyChai/CoralBot)
@@ -102,6 +111,7 @@
 - 【Java / Kotlin】[MisakaTAT/Shiro](https://github.com/MisakaTAT/Shiro)
 - 【Java / Kotlin】[JuerGenie/juerobot](https://github.com/JuerGenie/juerobot)
 - 【Java / Kotlin】[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)
+- 【Kotlin(KMP)】[RTAkland/ROneBot](https://github.com/RTAkland/ROneBot)
 - 【C++】[super1207/MiraiCQ](https://github.com/super1207/MiraiCQ)
 - 【Java / Kotlin(KMP)】[simbot-component-onebot](https://github.com/Simple-robot/simbot-component-onebot/)
 - 【Rust】[Threkork/Kovi](https://github.com/Threkork/Kovi)
@@ -131,6 +141,7 @@
 - [projectriri/bot-gateway](https://projectriri.github.io/bot-gateway/)：提供跨聊天平台的通用机器人 API 的机器人消息网关
 - [jqqqqqqqqqq/UnifiedMessageRelay](https://github.com/jqqqqqqqqqq/UnifiedMessageRelay)：QQ <-> Telegram Bot Framework & Forwarder
 - [Mother-Ship/cabbageWeb](https://github.com/Mother-Ship/cabbageWeb)：基于 Java Web 的 osu! 游戏数据查询机器人
+- [arttnba3/Shione](https://github.com/arttnba3/Shione)：汐音 (Shione)，基于 Shigure-Bot 的机器人
 - [bdbai/Kobirt](https://github.com/bdbai/Kobirt)：Ingress 游戏辅助机器人
 - [JRT-FOREVER/hub2coolq](https://github.com/JRT-FOREVER/hub2coolq)：GitHub webhook 消息转发至 QQ 群
 - [Kurarion/Bangumi-for-QQ](https://github.com/Kurarion/Bangumi-for-QQ)：用于在 QQ 平台便捷地使用 Bangumi 部分功能（查寻条目、更新条目进度等）
@@ -169,3 +180,4 @@
 - [KimigaiiWuyi/GenshinUID](https://github.com/KimigaiiWuyi/GenshinUID): 基于 HoshinoBot/NoneBot2/QQ 官方频道 Bot (Python SDK) 的原神 Uid 查询/原神 Wiki/米社签到/树脂提醒插件
 - [Hoshinonyaruko/Sanaebot](https://github.com/Hoshinonyaruko/SanaeBot): 使用 Epl 编写的 MyPCQQ（MPQ）到 OneBot 11 兼容的娱乐聊天词库机器人——早苗，兼容层兼容 QQ 频道、KOOK、DoDo
 - [SilveryStar/Adachi-BOT](https://github.com/SilveryStar/Adachi-BOT): 集成多种基础功能、易开发拓展的聊天机器人框架，兼容 OneBot 11
+- [avilliai/Eridanus](https://github.com/avilliai/Eridanus): 以 LLM 函数调用（Function Calling）为核心编写的多功能机器人，插件化设计，具有一定拓展性
